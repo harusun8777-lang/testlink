@@ -1,2 +1,3 @@
-あはっは
+console.log("sssss");
+
 
